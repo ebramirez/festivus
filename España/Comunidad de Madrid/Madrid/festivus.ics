@@ -1,87 +1,87 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201225
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Natividad del Señor (Nacional)
-UID:d57e12fe-7c68-4535-b141-58ede7fa6751@d57e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200101
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Año Nuevo (Estatal)
-UID:18d184ea-e074-4eb5-9558-4f0bb5f3ac29@18d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200502
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Fiesta de la Comunidad de Madrid (Autonómica)
-UID:a9673dd2-fc13-4191-88b6-c637cfe6ef9f@a967.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200515
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:San Isidro Labrador (Local)
-UID:71fbfd41-80a8-4127-91a1-f8ff59e727f9@71fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200815
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Asuncion de la Virgen (Estatal)
-UID:cfc8a60b-44e6-4f65-863f-b4ef290e85eb@cfc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201102
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Traslado del Día de Todos los Santos (Estatal)
-UID:cc220df6-4a74-4dc9-be5d-80c19df72cf6@cc22.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201208
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Inmaculada Concepción (Estatal)
-UID:042a7343-6519-4f92-9a21-c97c8630ec93@042a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201109
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Ntra. Sra. de la Almudena. Patrona de la ciudad (Local)
-UID:3fa21127-429d-4adf-88dc-ab5abf0ba35d@3fa2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200410
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Viernes Santo (Estatal)
-UID:9e402db3-2f87-40bb-b34d-37dffeb79cbf@9e40.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201012
 DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
 SUMMARY:Fiesta Nacional de España (Estatal)
-UID:6c32bd86-0f00-4544-b676-135455cfc9dd@6c32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200501
-DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
-SUMMARY:Fiesta del Trabajo (Estatal)
-UID:1657c99e-3ca9-4da5-b30a-144063c48d19@1657.org
+UID:9bbb7d62-70a9-42bb-b3c8-86b08828268f@9bbb.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200409
 DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
 SUMMARY:Jueves Santo (Autonómica)
-UID:6f8d29a8-4fa5-4f65-bf5a-7d205f482b3d@6f8d.org
+UID:1939059e-f3b5-47af-84ed-3145fef315a2@1939.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200101
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Año Nuevo (Estatal)
+UID:5eb99933-a767-4a4f-a524-b0e1a8dd6642@5eb9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200106
 DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
 SUMMARY:Epifania del Señor (Estatal)
-UID:2c9813a6-d41f-4436-8d34-ef45a0e01041@2c98.org
+UID:8514e8a9-2937-4264-b3e1-580fbfa28048@8514.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200815
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Asuncion de la Virgen (Estatal)
+UID:f8b60526-7eba-443e-b6d8-5fe02acc519b@f8b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200502
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Fiesta de la Comunidad de Madrid (Autonómica)
+UID:4b2987d2-ab7e-4c67-9f51-2c55c76652b7@4b29.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201207
 DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
 SUMMARY:Traslado del Día de la Constitución (Estatal)
-UID:056a9fd9-ce6b-4e56-b89f-c5549e3b8819@056a.org
+UID:1843348b-870f-4e78-8536-b3304d85ef47@1843.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201208
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Inmaculada Concepción (Estatal)
+UID:0e8f6dce-a793-4c3e-8dc1-236c990e79d3@0e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200410
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Viernes Santo (Estatal)
+UID:a21c4a36-f711-4b7c-8c60-e5c71b8576aa@a21c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200501
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Fiesta del Trabajo (Estatal)
+UID:43cffef1-66fe-420a-818e-307c559df252@43cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200515
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:San Isidro Labrador (Local)
+UID:03d5a7b2-7c1b-445b-b7b4-02617a65b075@03d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201102
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Traslado del Día de Todos los Santos (Estatal)
+UID:cf0dc37d-cd50-4291-b13e-98269a0e337e@cf0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201225
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Natividad del Señor (Nacional)
+UID:3e70e715-49ef-4fa7-ba32-49b5baa8f7f1@3e70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201109
+DESCRIPTION:# https://datos.madrid.es/egob/catalogo/300082-0-calendario_laboral.csv
+SUMMARY:Ntra. Sra. de la Almudena. Patrona de la ciudad (Local)
+UID:9af9cacb-e2bf-4ece-8405-6808aa5ddcaa@9af9.org
 END:VEVENT
 PRODID:ics.py - http://git.io/lLljaA
 VERSION:2.0
